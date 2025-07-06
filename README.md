@@ -1,4 +1,4 @@
-// 💻 Passionate Dev | 📡 Curious IoT Explorer | 🔥 Always Building
+
 
 const Salman = {
   name: "Salman Faris",
